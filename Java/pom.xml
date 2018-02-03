@@ -10,7 +10,7 @@
     <url>https://github.com/emilybache/Parrot-Refactoring-Kata</url>
 
     <properties>
-        <jdk.version>1.7</jdk.version>
+        <jdk.version>1.8</jdk.version>
     </properties>
 
     <dependencies>
